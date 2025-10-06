@@ -1,1 +1,2 @@
 Check
+Checked when git commited, will create a fork on user repo instead if no permission is granted from original
